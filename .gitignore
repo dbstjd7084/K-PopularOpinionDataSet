@@ -1,0 +1,19 @@
+.env
+ace_model_1/
+ace_model_2/
+model_A/
+split_files_final/
+(1) 크롤링.py
+(2) 전처리 전 드랍.py
+(3) 라벨링 전 전처리.py
+(4) 1000개씩.py
+(5) 분할.py
+(6) 합치기.py
+논문/
+youtube_comments.csv
+youtube_comments_filtered.csv
+youtube_comments_preprocessed.csv
+youtube_comments_drop.csv
+merged.csv
+output_ACE.csv
+output_ACE_2.csv
