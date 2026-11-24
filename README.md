@@ -32,6 +32,11 @@
 3. **별명 정규화 (Nickname Normalization):** 구축된 사전을 기반으로 본문 내 비표준 별명을 공식 명칭으로 정규화
 4. **엔티티 마킹 (Entity Marking):** 타겟 후보자 개체 앞뒤에 특수 토큰(`[ENT]`, `[/ENT]`)을 삽입하여 인코더가 대상 중심의 문맥적 관계를 집중 학습하도록 유도
 
+### 4. 멀티태스크 분류 모델 파이프라인 (MultiTask Classification Model Pipeline)
+모델 예측의 파이프라인은 다음과 같습니다.
+
+<img src="./imgs/architecture_diagram_mpl.png" alt="분류 모델 파이프라인" width="700" />
+
 ---
 
 ## 데이터 구조 및 스키마 (Dataset Structure)
