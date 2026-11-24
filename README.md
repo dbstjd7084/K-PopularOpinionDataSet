@@ -35,7 +35,7 @@
 ### 4. 멀티태스크 분류 모델 파이프라인 (MultiTask Classification Model Pipeline)
 모델 예측의 파이프라인은 다음과 같습니다.
 
-<img src="./imgs/architecture_diagram_mpl.png" alt="분류 모델 파이프라인" width="700" />
+<img src="./imgs/architecture_diagram_mpl.png" alt="분류 모델 파이프라인" width="800" />
 
 ---
 
